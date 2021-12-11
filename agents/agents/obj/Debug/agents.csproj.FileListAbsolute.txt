@@ -1,0 +1,17 @@
+C:\Users\prost\source\repos\agents\agents\bin\Debug\agents.exe.config
+C:\Users\prost\source\repos\agents\agents\bin\Debug\agents.exe
+C:\Users\prost\source\repos\agents\agents\bin\Debug\agents.pdb
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.csproj.AssemblyReference.cache
+C:\Users\prost\source\repos\agents\agents\obj\Debug\MainWindow.g.cs
+C:\Users\prost\source\repos\agents\agents\obj\Debug\Page1.g.cs
+C:\Users\prost\source\repos\agents\agents\obj\Debug\App.g.cs
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents_MarkupCompile.cache
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents_MarkupCompile.lref
+C:\Users\prost\source\repos\agents\agents\obj\Debug\MainWindow.baml
+C:\Users\prost\source\repos\agents\agents\obj\Debug\Page1.baml
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.g.resources
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.Properties.Resources.resources
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.csproj.GenerateResource.cache
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.csproj.CoreCompileInputs.cache
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.exe
+C:\Users\prost\source\repos\agents\agents\obj\Debug\agents.pdb
